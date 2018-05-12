@@ -1,0 +1,27 @@
+_repo: The-Submarine-in-War-and-PeaceIts-Development-and-its-Possibilities_46382
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46382-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lake, Simon
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '43753'
+    url: http://www.gutenberg.org/2009/agents/43753
+description: ''
+gutenberg_issued: '2014-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46382'
+  lccn: '18018750'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Submarines (Ships)'
+- !lcc 'VM'
+title: 'The Submarine in War and Peace: Its Development and its Possibilities'
+url: http://www.gutenberg.org/ebooks/46382
