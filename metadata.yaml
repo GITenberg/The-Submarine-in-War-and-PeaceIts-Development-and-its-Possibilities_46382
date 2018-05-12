@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43753'
     url: http://www.gutenberg.org/2009/agents/43753
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46382#The-Submarine-in-War-and-PeaceIts-Development-and-its-Possibilities
 gutenberg_issued: '2014-07-23'
 gutenberg_type: Text
 identifiers:
